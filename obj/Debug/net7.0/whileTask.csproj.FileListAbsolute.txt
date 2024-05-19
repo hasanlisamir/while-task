@@ -1,0 +1,15 @@
+/Users/samirhasanli/Projects/whileTask/whileTask/bin/Debug/net7.0/whileTask
+/Users/samirhasanli/Projects/whileTask/whileTask/bin/Debug/net7.0/whileTask.deps.json
+/Users/samirhasanli/Projects/whileTask/whileTask/bin/Debug/net7.0/whileTask.runtimeconfig.json
+/Users/samirhasanli/Projects/whileTask/whileTask/bin/Debug/net7.0/whileTask.dll
+/Users/samirhasanli/Projects/whileTask/whileTask/bin/Debug/net7.0/whileTask.pdb
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.csproj.AssemblyReference.cache
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.AssemblyInfoInputs.cache
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.AssemblyInfo.cs
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.csproj.CoreCompileInputs.cache
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.dll
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/refint/whileTask.dll
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.pdb
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/whileTask.genruntimeconfig.cache
+/Users/samirhasanli/Projects/whileTask/whileTask/obj/Debug/net7.0/ref/whileTask.dll
